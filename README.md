@@ -104,4 +104,3 @@ More on evaluation: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-
 - Preprocessing the data using NLTK.
 - Applying Multi Label classification algorithms.
 - Comparing the results and choosing the best among them.
-
